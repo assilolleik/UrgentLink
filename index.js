@@ -10,6 +10,7 @@ import {
 import './style.css'
 import Home from './views/home'
 import Chat from './views/chat'
+import NotFound from './views/not-found'
 
 const App = () => {
   return (
@@ -17,6 +18,8 @@ const App = () => {
       <Switch>
         <Route component={Home} exact path="/home" />
         <Route component={Chat} exact path="/chat" />
+        <Route component={NotFound} path="**" />
+        <Redirect to="/home" />
       </Switch>
     </Router>
   )
