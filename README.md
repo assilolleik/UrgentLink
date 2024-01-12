@@ -1,5 +1,5 @@
 # UrgentLink
-An AI-Enabled Department Recommendation Chatbot for Patients in Emergency Department
+An AI-Enabled Department Recommendation Assitant for Patients in Emergency Department
 # About
 CHECK NOTE FOR HOW TO RUN
 - **Project Overview:**
