@@ -1,8 +1,7 @@
 # UrgentLink
 An AI-Enabled Department Recommendation Chatbot for Patients in Emergency Department
 # About
-Certainly! Here are the key points for your GitHub README file:
-
+CHECK NOTE FOR HOW TO RUN
 - **Project Overview:**
   - Developed a BERT-based Hospital Assistant for patient queries in the emergency department.
   - Utilized the MED DIALOG Chinese dataset for training.
